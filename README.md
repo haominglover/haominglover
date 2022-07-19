@@ -49,4 +49,5 @@ APEX|$30|10
 #### 超链接
 [Github官方网站](https://github.com “点击跳转Github”)
 
-
+#### 插入图片
+[核酸](C://Users//Lenovo//Desktop//核酸.jpg)
