@@ -50,7 +50,7 @@ APEX|$30|10
 [Github官方网站](https://github.com “点击跳转Github”)
 
 #### 插入图片
-![核酸.jpg](https://s2.loli.net/2022/07/19/vIHik7DgAh4BG1j.jpg)
+
 
 
 
