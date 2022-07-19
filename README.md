@@ -51,7 +51,19 @@ APEX|$30|10
 
 #### 插入图片
 
-
+#### 插入代码片段
+```c
+#include <stdio.h>
+```
+```python
+python
+```
+```bash
+	cd /user/bin
+```
+```cpp
+#include <iostream>
+```
 
 
 
